@@ -84,11 +84,11 @@
 
     // Inicjalizacja wszystkich karuzel
     async function initAllCarousels() {
-      await initCarousel('carousel-1', ['175311', '166906','175655', '175137']);
-      await initCarousel('carousel-2', ['175765', '175137','175311', '166906']);
-      await initCarousel('carousel-3', ['175765', '175137','175311', '166906']);
-      await initCarousel('carousel-4', ['175612', '177812','175311', '166906']);
-      await initCarousel('carousel-5', ['177865', '177496','175311', '166906']);
+      await initCarousel('carousel-1', ['181324', '145013','6551','175311','181327','181321', '53027']);
+      await initCarousel('carousel-2', ['181324', '181327','181321', '181322']);
+      await initCarousel('carousel-3', ['6542', '6540','148076', '145013']);
+      await initCarousel('carousel-4', ['6551', '137090','148078', '53027']);
+      await initCarousel('carousel-5', ['175311','175310','175309', '175312']);
     }
 
     // Uruchomienie wszystkich karuzel
