@@ -342,7 +342,7 @@
   position: relative;
 }
 #es-durex.es-durex .es-products__swiper-slide {
-  margin: 0 auto;
+  margin: 0 auto !important;
   padding: 0 35px 20px;
   width: 260px;
   min-height: 380px;
